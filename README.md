@@ -28,7 +28,10 @@ Bu proje, aşağıdaki temel programlama ve sistem etkileşimi konseptlerini uyg
 - **Temel İşlevsellik:** Global klavye olaylarını yakalar ve yakalanan tuş vuruşlarını loglar.  
 - **Eğitim Kısıtlaması:** Etik test ve ödev gereklilikleri doğrultusunda, program yalnızca **50 karakter** yakalandıktan sonra otomatik olarak duracak şekilde ayarlanmıştır. Bu kısıtlama, testin sınırlı ve kontrol altında tutulmasını sağlar.
 #### Video linki:  
-(https://youtu.be/Ste771DmOUQ?si=pjw_CqjqrPxQMgIs)  
+* Test arkadaşım Merve Özcan'nın rızası ile kendi bilgisayarında gerçekleştirilmiştir.
+
+(https://youtu.be/Ste771DmOUQ?si=pjw_CqjqrPxQMgIs)    
+
 <img width="1740" height="50" alt="Gelan_mail" src="https://github.com/user-attachments/assets/41a41b53-3f0c-4db7-b906-3a52bd8b498b" />
 
 
